@@ -560,6 +560,12 @@
 			}
 		}
 
+		&.Replace-Existing-Banners.Banner-Enabled {
+			.Bdcf5g__Rug3TGqSdbiy {
+				display: none;
+			}
+		}
+
 		&.Lyrics {
 			main > div > div:empty {
 				--lyrics-color-background: transparent !important;
